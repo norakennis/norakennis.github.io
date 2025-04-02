@@ -19,9 +19,11 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Testpage"
+    url: /testpage/
     
   # - title: "CV"
   #   url: /cv-json/
 
- - title: "testpage"
-    url: /testpage/
+
